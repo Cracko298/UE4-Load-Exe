@@ -6,9 +6,9 @@ UE4LE (UE4-Load-Exe) loads an executable file when called by UMU, RE-UE4SS, or U
 ## Building:
 ### Building Example DLL:
 ```
-
+> g++ -shared -o ExamplePlugin.dll -O3 -s LoadThatModMenu.cpp
 ```
 ### Building Example ModMenu:
 ```
-
+> g++ -o ModMenu.exe -O3 -s ModMenuLoader.cpp
 ```
