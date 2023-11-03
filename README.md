@@ -7,8 +7,9 @@
 ```
 > g++ -shared -o ExamplePlugin.dll -O3 -s LoadThatModMenu.cpp
 ```
+### Building Point2Dir.dll:
 ```
-> g++ -shared -o Point2Dir.dll -O3 -s 
+> g++ -shared -o Point2Dir.dll -O3 -s point_to_dir.cpp
 ```
 ### Building Example ModMenu:
 ```
