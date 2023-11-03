@@ -22,5 +22,5 @@
 - **Both of these example files need to located in the "Mods" or "UnrealModPlugins" Folder, right beside eachother (can be changed).**
 - **This generally needs to be compiled by Plugin/ModMenu Developers. However there is a POC Download Below.**
 - **Download [ExampleModMenuLoader.dll](https://github.com/Cracko298/UE4-Load-Exe/releases/download/ExampleRelease/ExampleModMenuLoader.dll) (Example Plugin).**
-- **Download [ModMenuExample](https://github.com/Cracko298/UE4-Load-Exe/releases/download/ExampleRelease/ModMenuExample.exe) (Example ModMenu).**
+- **Download [ModMenuExample.exe](https://github.com/Cracko298/UE4-Load-Exe/releases/download/ExampleRelease/ModMenuExample.exe) (Example ModMenu).**
 
