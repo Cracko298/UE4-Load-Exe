@@ -26,9 +26,9 @@
 - **Download [ModMenuExample.exe](https://github.com/Cracko298/UE4-Load-Exe/releases/download/ExampleRelease/ModMenuExample.exe) (Example ModMenu).**
 
 ## Point2Dir.dll Plugin Downloads(s):
-- **This is a pre-compiled plugin that requires a file called "iszplg.config" beside it, this file will point to another directory on the desired system.**
-```config
+- **This is a pre-compiled plugin that requires a file called "iszplg.config" beside it, this file will point to another file/directory in the not currently running dir on the desired system.**
+- **Download [Point2Dir.dll](https://github.com/Cracko298/UE4-Load-Exe/blob/main/point_to_dir.cpp) (Points to Exe in Another Directory).**
+```ini
 [PATH]
-
+C:\Users\CoolExampleFolderName\GameCheatZ\ISZ-ModMenu\ISZModMenu.exe
 ```
-
