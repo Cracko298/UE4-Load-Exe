@@ -19,9 +19,16 @@
 
 - **Need an Video Showing it Off? I got you covered [here](https://youtu.be/QZRqSOC6Bpw?si=0Eg_uDVFtrz_MRDQ).**
 
-## Download:
+## Example Plugin Download(s):
 - **Both of these example files need to located in the "Mods" or "UnrealModPlugins" Folder, right beside eachother (can be changed).**
 - **This generally needs to be compiled by Plugin/ModMenu Developers. However there is a POC Download Below.**
 - **Download [ExampleModMenuLoader.dll](https://github.com/Cracko298/UE4-Load-Exe/releases/download/ExampleRelease/ExampleModMenuLoader.dll) (Example Plugin).**
 - **Download [ModMenuExample.exe](https://github.com/Cracko298/UE4-Load-Exe/releases/download/ExampleRelease/ModMenuExample.exe) (Example ModMenu).**
+
+## Point2Dir.dll Plugin Downloads(s):
+- **This is a pre-compiled plugin that requires a file called "iszplg.config" beside it, this file will point to another directory on the desired system.**
+```config
+[PATH]
+
+```
 
