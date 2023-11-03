@@ -1,6 +1,7 @@
 # UE4-Load-Exe
 - **Doesn't use CreateThread or CreateProcess which can help when loading multiple plugins if too many Threads/Processes are being used/opened.**
 - **Doesn't attach Plugin/ModMenu directly to program memory, threads, files, etc. (The ModMenu/Plugin needs to handle this logic).**
+- **"Point2Dir.dll/point_to_dir.cpp" reads a file called** ***iszplg.config*** **which points to a ModMenu that isn't in the same directory as the .dll**
 
 ## Building:
 ### Building Example DLL:
